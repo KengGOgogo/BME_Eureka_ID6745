@@ -1,5 +1,7 @@
 # BME_Eureka_ID6745
 
+![](https://www.bmedesign.cn/assets/img/home_img.jpg)
+
 ## 项目简介
 
 **本项目应用程序基于Qt框架开发，利用OpenCV与VTK对医学影像进行基本处理操作，通过PyTorch的C++前端LibTorch调用TorchScript模型实现高效推理。**
@@ -63,4 +65,3 @@ IV右栏为编辑栏：
 3.学习交流界面：可直接访问平台相关的学习资料，进行交流。
 
 4.设置界面：可更改默认路径等个性化设定，快速打开影像，提高处理效率。
-
